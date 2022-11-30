@@ -65,7 +65,7 @@ npm start
 
 ## Resources for learning Electron
 
-* [electronjs.org/docs](https://electronjs.org/docs) - All of Electron's documentation
+* [electronjs.org/docs](https://electronjs.org/docs/latest) - All of Electron's documentation
 * [electron/fiddle](https://github.com/electron/fiddle) - A tool to build, run, and package small Electron experiments
 * [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - A very basic starter Electron app
 * [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - Sample starter apps created by the community
